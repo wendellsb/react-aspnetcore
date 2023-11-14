@@ -52,7 +52,6 @@ function App() {
         atividades={atividades}
         ativSelecionada={atividade}
       />
-
       <AtividadeLista
         atividades={atividades}
         deletarAtividade={deletarAtividade}
