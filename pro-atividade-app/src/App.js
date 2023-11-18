@@ -37,6 +37,18 @@ function App() {
     setAtividades([...atividades, { ...atividade }]);
   }
 
+  function atualizarAtividade(ativ) {
+    setAtividades(
+      atividades.map((item) => (item.id === ativ.id ? ativ : item))
+    );
+
+    setAtividade({ id: 0 });
+  }
+
+  function cancelarAtividade() {
+    setAtividade({ id: 0 });
+  }
+
   function deletarAtividade(id) {
     const atividadesFiltradas = atividades.filter(
       (atividade) => atividade.id !== id
@@ -55,6 +67,8 @@ function App() {
         addAtividade={addAtividade}
         atividades={atividades}
         ativSelecionada={atividade}
+        atualizarAtividade={atualizarAtividade}
+        cancelarAtividade={cancelarAtividade}
       />
       <AtividadeLista
         atividades={atividades}
