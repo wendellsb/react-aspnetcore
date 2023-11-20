@@ -1,2 +1,1 @@
-# react-aspnetcore
-REACTJS, .Net, ASP.NET, Web API, Entity Framework Core
+# ReactJs, .Net, ASP.NET, Web API, Entity Framework Core
