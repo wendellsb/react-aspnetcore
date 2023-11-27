@@ -32,3 +32,13 @@ C:\Users\Wendell\Desktop\Desenvolvimento\react-aspnetcore\back-end\src\ProAtivid
 C:\Users\Wendell\Desktop\Desenvolvimento\react-aspnetcore\back-end\src\ProAtividade.API\ProAtividade.API\obj\Debug\net7.0\ProAtividade.API.pdb
 C:\Users\Wendell\Desktop\Desenvolvimento\react-aspnetcore\back-end\src\ProAtividade.API\ProAtividade.API\obj\Debug\net7.0\ProAtividade.API.genruntimeconfig.cache
 C:\Users\Wendell\Desktop\Desenvolvimento\react-aspnetcore\back-end\src\ProAtividade.API\ProAtividade.API\obj\Debug\net7.0\ref\ProAtividade.API.dll
+C:\Users\Wendell\Desktop\Desenvolvimento\react-aspnetcore\back-end\src\ProAtividade.API\ProAtividade.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Wendell\Desktop\Desenvolvimento\react-aspnetcore\back-end\src\ProAtividade.API\ProAtividade.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Wendell\Desktop\Desenvolvimento\react-aspnetcore\back-end\src\ProAtividade.API\ProAtividade.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Wendell\Desktop\Desenvolvimento\react-aspnetcore\back-end\src\ProAtividade.API\ProAtividade.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Wendell\Desktop\Desenvolvimento\react-aspnetcore\back-end\src\ProAtividade.API\ProAtividade.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Wendell\Desktop\Desenvolvimento\react-aspnetcore\back-end\src\ProAtividade.API\ProAtividade.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Wendell\Desktop\Desenvolvimento\react-aspnetcore\back-end\src\ProAtividade.API\ProAtividade.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Wendell\Desktop\Desenvolvimento\react-aspnetcore\back-end\src\ProAtividade.API\ProAtividade.API\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Wendell\Desktop\Desenvolvimento\react-aspnetcore\back-end\src\ProAtividade.API\ProAtividade.API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Wendell\Desktop\Desenvolvimento\react-aspnetcore\back-end\src\ProAtividade.API\ProAtividade.API\bin\Debug\net7.0\System.CodeDom.dll
